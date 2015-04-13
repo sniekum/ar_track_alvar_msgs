@@ -2,8 +2,8 @@
 Changelog for package ar_track_alvar_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.5.1 (2015-04-12)
+------------------
 * Release into Jade ROS
 * Contributors: Isaac IY Saito
 

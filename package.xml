@@ -7,6 +7,7 @@
   </description>
   <maintainer email="sniekum@cs.umass.edu">Scott Niekum</maintainer>
   <maintainer email="gm130s@gmail.com">Isaac I.Y. Saito</maintainer>
+  <author>Jihoon Lee</author>
   <license>BSD</license>
   <url type="website">http://ros.org/wiki/ar_track_alvar</url>
 
